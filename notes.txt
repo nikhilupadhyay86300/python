@@ -1,0 +1,40 @@
+python introduction:
+print()
+variable
+comment
+datatype
+  >int 
+  >float
+  >string
+  >list
+  >tuple
+  >set
+  >dictinary
+  >frozenset
+  >bool 
+  >complex
+>input()
+>comditional programming (if, else, elif, nested if elif else, ternary operator)
+>lop
+   >for loop(nest for loop, list comprehension, dicrionary comprehension, set comprehension)
+   >while loop(nest while loop)
+   >pattern using single loop (for loop , while loop)
+>function
+   >def
+   >lambda(anonymous function, fat function)
+>decorator
+>multitasking(threading)
+>garbage collector (gc)
+>OOPs(object oriented programming)
+   >class
+   >object
+   >Encapsulation
+   >polymorphism
+   >inheritance
+   >abstraction
+       <<>>class function
+            >>class variable
+            >>static function
+>Database(CRUD--> Create, Read, Update, delete)
+  >sq;(mysql)
+  >NOSql(mongodb)
