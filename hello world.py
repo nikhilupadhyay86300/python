@@ -1,0 +1,5 @@
+print("mango","banana","apple",sep= "\n")
+print("mango,""banana,""apple",sep= "\n")
+print("mango ""banana ""apple")
+print("mango","banana","apple")
+print("mango""banaan""apple")

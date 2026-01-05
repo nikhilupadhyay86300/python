@@ -1,0 +1,5 @@
+print('this is "krishna"')
+print()
+print("this is \"krishna\"")
+print("http:\nwww.\tpython.org\nkumar")
+print(r"http:\nwww.\tpython.org\nkumar")
